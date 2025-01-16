@@ -6,3 +6,45 @@ It creates a new log with an index one higher than the previous largest index. T
 
 ## How to use
 - Pull the Git repository onto your local machine and place the "New Devlog" folder (with a space) onto the desktop or anywhere else that is convenient. For example: "C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs". I would recommend creating a new folder called "My Programs" or something similar, where you can store your own programs. (It will still work.) The application can then be accessed by the Windows search bar, and you can pin it to the Windows start menu. :)
+
+
+heres the current template:
+
+```
+# Dev Diary Nr.
+
+## Title
+
+## Date: YYYY-MM-DD | Time: HH:MM
+
+### Lessons learned:
+- 
+
+### What I did:
+- 
+
+### Challenges faced:
+- 
+
+### Next steps:
+- 
+```
+this will look something like this:
+# Dev Diary Nr.
+
+## Title
+
+## Date: YYYY-MM-DD | Time: HH:MM
+
+### Lessons learned:
+- 
+
+### What I did:
+- 
+
+### Challenges faced:
+- 
+
+### Next steps:
+- 
+
